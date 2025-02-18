@@ -8,14 +8,8 @@ header h1 {
         text-shadow: 0.5px 1.5px [color]; 
     }
 
-.ingredients { 
-    font-family: Times New Roman, Times, serif; 
-    font-style: oblique;
-    color: darkblue; 
-} 
-
 #ingredients {
     font-family: Arial, Helvetica, serif;
     font-style: oblique;
-    color: darkblue;
+    color: purple;
 }
