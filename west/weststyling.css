@@ -8,33 +8,231 @@ TODO:
     - Have at least 4 Navigation links
     - Links must not be underlined and must respond visually to `hover'.
     - You pick the title and contents of the pages - there should be at least two paragraphs of text on each page.
-    - 
+    - Color Scheme is
+        #0E0906
+        #29524A
+        #94A187
+        #8C8C88
+        #102542
 */
 
-#index_head {
-
+/* Index Styling */
+.index_body {
+    margin-left: 220px;
+    padding-right: 20px;
+    background-color: #102542;
 }
 
-#index_body {
-
+.index_nav {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    padding-top: 20px;
+    overflow-x: hidden;
+    background-color: #94A187;
 }
 
-#index_header {
-
+.index_nav a {
+    width: 90%;
+    padding: 5px;
+    display: block;
+    color: black;
+    min-width: 600px;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none;
+    font-family: sans-serif;
 }
 
-#index_nav {
-
+.index_nav a:hover {
+    background-color: #87CEEB;
 }
 
-#index_h1 {
-
+.index_h1 {
+    width: 90%;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: center;
+    background-color: #0E0906;
+    font-family: sans-serif;
 }
 
-#index_p {
-
+.index_p {
+    width: 90%;
+    padding: 10px;
+    min-width: 600px;
+    text-align: left;
+    color: #F0EAD6;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.index_p_2 {
+    width: 90%;
+    padding: 10px;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: left;
+    font-size: medium;
+    font-family: sans-serif;
 }
 
-#index_footer {
+.index_footer {
+    width: 90%;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: center;
+    font-family: sans-serif;
+}
 
+.index_california_img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* West Page One Styling */
+.west_page_one_body {
+    margin-left: 220px;
+    padding-right: 20px;
+    background-color: #102542;
+}
+
+.west_page_one_nav {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    padding-top: 20px;
+    overflow-x: hidden;
+    background-color: #94A187;
+}
+
+.west_page_one_nav a {
+    width: 90%;
+    padding: 5px;
+    display: block;
+    color: black;
+    min-width: 600px;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.west_page_one_nav a:hover {
+    background-color: #87CEEB;
+}
+
+.west_page_one_h1 {
+    width: 90%;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: center;
+    background-color: #0E0906;
+    font-family: sans-serif;    
+}
+
+.west_page_one_p {
+    width: 90%;
+    padding: 10px;
+    min-width: 600px;
+    text-align: left;
+    color: #F0EAD6;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.west_page_one_p2 {
+    width: 90%;
+    padding: 10px;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: left;
+    font-size: medium;
+    font-family: sans-serif; 
+}
+
+.west_page_one_footer {
+    width: 90%;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/* West Page Two Styling */
+.west_page_two_body {
+    margin-left: 220px;
+    padding-right: 20px;
+    background-color: #102542;
+}
+.west_page_two_nav {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    padding-top: 20px;
+    overflow-x: hidden;
+    background-color: #94A187;
+}
+
+.west_page_two_nav a {
+    width: 90%;
+    padding: 5px;
+    display: block;
+    color: black;
+    min-width: 600px;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.west_page_one_nav a:hover {
+    background-color: #87CEEB;
+}
+
+.west_page_two_h1 {
+    width: 90%;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: center;
+    background-color: #0E0906;
+    font-family: sans-serif;     
+}
+
+.west_page_two_p {
+    width: 90%;
+    padding: 10px;
+    min-width: 600px;
+    text-align: left;
+    color: #F0EAD6;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.west_page_two_p2 {
+    width: 90%;
+    padding: 10px;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: left;
+    font-size: medium;
+    font-family: sans-serif; 
+}
+
+.west_page_two_footer {
+    width: 90%;
+    min-width: 600px;
+    color: #F0EAD6;
+    text-align: center;
+    font-family: sans-serif;
 }
