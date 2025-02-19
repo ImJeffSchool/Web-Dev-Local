@@ -1,25 +1,40 @@
-/* West Styling */
+/* West Index Styling */
+/*
+TODO:
+    - Content fills 90% of the available width
+    - Content has a min-width of 600 pixels
+    - Navigation is along the left border
+    - Header must be a single line of text
+    - Have at least 4 Navigation links
+    - Links must not be underlined and must respond visually to `hover'.
+    - You pick the title and contents of the pages - there should be at least two paragraphs of text on each page.
+    - 
+*/
 
-#index_head head {
+#index_head {
 
 }
 
-#index_body body {
-    
-}
-
-#index_header header {
-    
-}
-
-#index_nav nav {
+#index_body {
 
 }
 
-#index_h1 h1 {
-    
+#index_header {
+
 }
 
-#index_footer footer {
-    
+#index_nav {
+
+}
+
+#index_h1 {
+
+}
+
+#index_p {
+
+}
+
+#index_footer {
+
 }
