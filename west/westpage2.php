@@ -3,7 +3,9 @@
     <head>
         <link rel="stylesheet" type="text/css" href="weststyling.css">
         <meta charset="UTF-8", author="Jeff Markham", description="West Page Two", keywords="CS, Computer Science, Networks, Security, West Landing Page">
-        <title>West Page 2</title>
+        <title>
+            West Page 2
+        </title>
     </head>
     <body class="west_page_two_body">
         <!--This file should be found through cs.colostate.edu:4444/~jeff97/-->
@@ -17,8 +19,12 @@
                 <a href="../east/index.php", target="_self">East Landing Page</a>
                 <a href="mailto:jeff97@colostate.edu", target="_self">Contact Me</a>
             </nav>
-            <h1 class="west_page_two_h1">West Page Two</h1>
-            <p class="west_page_two_p">Welcome to the West Page Two!</p>
+            <h1 class="west_page_two_h1">
+                West Page Two
+            </h1>
+            <p class="west_page_two_p">
+                Welcome to the West Page Two!
+            </p>
             <p class="west_page_two_p2">
                 Lorem ipsum odor amet, consectetuer adipiscing elit. Lectus cubilia nibh felis convallis dictumst fringilla. Placerat maecenas venenatis aliquam pulvinar quisque eros libero. Placerat laoreet vel orci laoreet ridiculus. Ipsum pellentesque molestie pulvinar potenti in fermentum blandit. Interdum est est cubilia lectus ipsum; urna vitae commodo. Interdum et lacus curabitur accumsan laoreet enim penatibus pulvinar. Lobortis montes ante suscipit nec tempus.<br><br>
                 Proin urna tellus quam mollis mi. Venenatis per nunc ut fermentum duis potenti fusce auctor. Quisque sed sodales eu efficitur libero gravida. Euismod vitae commodo class vulputate consequat posuere maximus fermentum. Lorem donec iaculis litora morbi nam; est efficitur dui. Cursus vestibulum mi nisi tempor donec habitant hendrerit suspendisse imperdiet. Rutrum aliquam ut malesuada platea sagittis? Praesent consectetur viverra quisque ultricies sit lorem suspendisse suspendisse. Commodo lorem fusce et aenean maecenas.<br><br>
@@ -34,6 +40,8 @@
         </header>
     </body>
     <footer class="west_page_two_footer">
-        <p>Created by Jeff Markham</p>
+        <p>
+            Created by Jeff Markham
+        </p>
     </footer>
 </html>

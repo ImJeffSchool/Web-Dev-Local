@@ -3,7 +3,9 @@
     <head>
         <link rel="stylesheet" type="text/css" href="weststyling.css">
         <meta charset="UTF-8", author="Jeff Markham", description="West Landing Page", keywords="CS, Computer Science, Networks, Security, West Landing Page">
-        <title>West</title>
+        <title>
+            West
+        </title>
     </head>
     <body class="index_body">
         <!--This file should be found through cs.colostate.edu:4444/~jeff97/-->
@@ -17,7 +19,9 @@
                 <a href="../east/index.php", target="_self">East Landing Page</a> 
                 <a href="mailto:jeff97@colostate.edu", target="_self">Contact Me</a>
             </nav>
-            <h1 class="index_h1">West Landing Page</h1>
+            <h1 class="index_h1">
+                West Landing Page
+            </h1>
             <p class="index_p">
                 Welcome to the West Landing Page!<br>
             </p>
@@ -32,6 +36,8 @@
         </header>
     </body>
     <footer class="index_footer">
-        <p>Created by Jeff Markham</p>
+        <p>
+            Created by Jeff Markham
+        </p>
     </footer>
 </html>

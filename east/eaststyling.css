@@ -1,0 +1,93 @@
+/*
+TODO:
+    -Content width is fixed, Between 480-1200 Pixels pick a number in that range
+    -Content becomes centered if page is wider than necessary
+    -Navigation is across the top
+    -Header must be a single line of text
+    -Have at least 4 Navigation links
+    -Links must not be underlined and must respond visually to `hover'
+    -You pick the title and contents of the pages - there should be at least two paragraphs of text on each page
+    -Color Scheme is
+        #2703A6
+        #593EA2
+        #141259
+        #F2B705
+        #F29F05
+*/
+
+/* Index Styling */
+.index_body {
+    background-color:  #141259;
+}
+
+.index_header {
+    
+}
+
+.index_nav {
+    text-align: center;
+    background-color: #2703A6;
+}
+
+.index_nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    color: #F2B705;
+    max-width: 720px;
+    padding: 15px;
+}
+
+.index_h1 {
+    
+}
+
+.index_p1 {
+
+}
+
+.index_footer {
+
+}
+
+/* East Page One Styling */
+.east_page_one_body {
+
+}
+
+.east_page_one_nav {
+
+}
+
+.east_page_one_h1 {
+
+}
+
+.east_page_one_p1 {
+
+}
+
+.east_page_one_footer {
+
+}
+
+/* East Page Two Styling */
+.east_page_two_body {
+
+}
+
+.east_page_two_nav {
+
+}
+
+.east_page_two_h1 {
+
+}
+
+.east_page_two_p1 {
+
+}
+
+.east_page_two_footer {
+
+}

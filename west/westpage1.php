@@ -3,7 +3,9 @@
     <head>
         <link rel="stylesheet" type="text/css" href="weststyling.css">
         <meta charset="UTF-8", author="Jeff Markham", description="West Page One", keywords="CS, Computer Science, Networks, Security, West Landing Page">
-        <title>West Page 1</title>
+        <title>
+            West Page 1
+        </title>
     </head>
     <body class="west_page_one_body">
         <!--This file should be found through cs.colostate.edu:4444/~jeff97/-->
@@ -17,8 +19,12 @@
                 <a href="../east/index.php", target="_self">East Landing Page</a>
                 <a href="mailto:jeff97@colostate.edu", target="_self">Contact Me</a>
             </nav>
-            <h1 class="west_page_one_h1">West Page One</h1>
-            <p class="west_page_one_p">Welcome to the West Page One</p>
+            <h1 class="west_page_one_h1">
+                West Page One
+            </h1>
+            <p class="west_page_one_p">
+                Welcome to the West Page One
+            </p>
             <p class="west_page_one_p2">
                 Lorem ipsum odor amet, consectetuer adipiscing elit. Erat urna lacus et sapien platea. Primis sollicitudin rhoncus cras et euismod, lacinia nam pharetra. Egestas donec nisl felis elementum gravida eleifend. Malesuada ex sociosqu himenaeos nullam vel. Gravida accumsan venenatis ultricies ipsum massa pretium ullamcorper. Fermentum blandit suscipit duis curae tempus auctor non facilisi. Lobortis felis fusce quam dis class interdum. Arcu nibh tellus ut sociosqu nostra phasellus cras porta erat.<br><br>
                 Massa habitasse litora, potenti vestibulum sed dui lectus. Pretium ullamcorper senectus sociosqu nullam dictum. Iaculis elit laoreet consequat ligula natoque sed natoque volutpat. Himenaeos phasellus imperdiet dis magna habitant eleifend imperdiet. Taciti varius elit urna tristique dignissim porttitor vehicula congue. Ornare tristique habitant magnis imperdiet hac finibus vestibulum dictum. Consequat vulputate senectus morbi quis primis euismod. Orci purus elementum interdum ac nibh facilisis suscipit.<br><br>
@@ -33,6 +39,8 @@
         </header>
     </body>
     <footer class="west_page_one_footer">
-        <p>Created by Jeff Markham</p>
+        <p>
+            Created by Jeff Markham
+        </p>
     </footer>
 </html>
