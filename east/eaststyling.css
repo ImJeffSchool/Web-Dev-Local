@@ -18,15 +18,15 @@ TODO:
 /* Index Styling */
 .index_body {
     background-color:  #141259;
-}
-
-.index_header {
-    
+    color: #F2B705;
+    text-align: center;
 }
 
 .index_nav {
     text-align: center;
     background-color: #2703A6;
+    padding: 15px;
+    overflow: hidden;
 }
 
 .index_nav a {
@@ -35,59 +35,81 @@ TODO:
     font-size: x-large;
     color: #F2B705;
     max-width: 720px;
-    padding: 15px;
+    padding: 20px;
 }
 
-.index_h1 {
-    
+.index_nav a:hover {
+    background-color: #593EA2;
 }
 
-.index_p1 {
-
-}
-
-.index_footer {
-
+.index_p2 {
+    text-align: center;
+    padding-left: 325px;
+    padding-right: 325px;
 }
 
 /* East Page One Styling */
 .east_page_one_body {
-
+    background-color:  #141259;
+    color: #F2B705;
+    text-align: center;
 }
 
 .east_page_one_nav {
-
+    text-align: center;
+    background-color: #2703A6;
+    padding: 15px;
+    overflow: hidden;
 }
 
-.east_page_one_h1 {
-
+.east_page_one_nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    color: #F2B705;
+    max-width: 720px;
+    padding: 20px;
 }
 
-.east_page_one_p1 {
-
+.east_page_one_nav a:hover {
+    background-color: #593EA2;
 }
 
-.east_page_one_footer {
-
+.east_page_one_p2 {
+    text-align: center;
+    padding-left: 325px;
+    padding-right: 325px;
 }
 
 /* East Page Two Styling */
 .east_page_two_body {
-
+    background-color:  #141259;
+    color: #F2B705;
+    text-align: center;
 }
 
 .east_page_two_nav {
-
+    text-align: center;
+    background-color: #2703A6;
+    padding: 15px;
+    overflow: hidden;
 }
 
-.east_page_two_h1 {
-
+.east_page_two_nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    color: #F2B705;
+    max-width: 720px;
+    padding: 20px;
 }
 
-.east_page_two_p1 {
-
+.east_page_two_nav a:hover {
+    background-color: #593EA2;
 }
 
-.east_page_two_footer {
-
+.east_page_two_p2 {
+    text-align: center;
+    padding-left: 325px;
+    padding-right: 325px;
 }
